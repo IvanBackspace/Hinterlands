@@ -765,6 +765,7 @@ textarea {
         margin: 0px 0px 0px 0px;
         padding: 0px 4px 0px 32px;
         flex: 1 1 auto;
+        border-radius: unset;
     }
 
     .header__menu {
